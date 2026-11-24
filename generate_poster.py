@@ -406,7 +406,7 @@ BRIEFS_B = [
     ("ARMENIA", C_BLUE, "Trump route TRIPP launches in Syunik."),
     ("ASIA", C_AMBER, "China, S. Korea, Taiwan steady markets after rout."),
     ("TECH", C_PURPLE, "OpenAI proposes shared AI safety limits."),
-    ("CHINA", C_CRIMSON, "Shenzhou-24 crew named; first Pakistani astronaut."),
+    ("AUSTRALIA", C_GREEN, "Freezes PBS co-pay at $25 until 2030."),
     ("INDIA", C_GREEN, "Direct rail link to Nepal opens."),
     ("RUSSIA", C_BLUE, "Leaked records put war dead at 490,000+."),
     ("AUSTRALIA", C_GREEN, "Treasurer warns of tougher year ahead."),
